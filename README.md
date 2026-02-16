@@ -1,4 +1,4 @@
-.👋 <strong>Hi, I’m Godknows Egi</strong> 
+.👋 <strong>Hi, I’m AGK</strong> 
 
 .❤️ <strong>Lover of Open Source contribution and Space Advocacy in the code space </strong>
 
@@ -8,7 +8,6 @@
 
 .💞️ <strong>I’m looking to collaborate on any project using NodeJS, Typescript,Next.js,React-native, React, and javascript</strong>
 
-.📫 <strong> How to reach me <a href="mailto:godknowsegiboy00@gmail.com" >godknowsegiboy00@gmail.com</a> </strong>
 
 <br/>
 
